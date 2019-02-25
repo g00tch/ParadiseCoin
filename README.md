@@ -102,7 +102,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 * Paste the code below into the Bitvise terminal then press enter.
 ![Example-Bash](https://i.imgur.com/myvmKTE.png)
 
-`https://raw.githubusercontent.com/ParadiseCoin/ParadiseCoin-MN-script/master/ParadiseCoin_install.sh && ParadiseCoin_install.sh`
+`https://raw.githubusercontent.com/ParadiseCoin/ParadiseCoin-MN-script/master/ParadiseCoin_install.sh && bash ParadiseCoin_install.sh`
 ***
 
 ***Step 8***
